@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related QA APIs"
   contactDetails:
-    name: "Alessandro Cuccurese - Developer"
+    name: "Alessandro Cuccurese - QA Lead"
     email: "alessandro.cuccurese@eazybank.com"
   onCallSupport:
     - (081) 4832934
