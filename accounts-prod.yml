@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related webhook APIs"
+  message: "Welcome to EazyBank accounts related roberto APIs"
   contactDetails:
     name: "Loredana Cuccurese - Product Owner"
     email: "{cipher}8f09c166aed249caba81ade93706d852b282de09ae5ae4e8507ad4519a8aa928b2b3a5ed348c3ddad518ce39df6da88f"
